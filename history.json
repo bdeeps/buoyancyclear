@@ -1,0 +1,695 @@
+{
+  "title": "The history of density and buoyancy",
+  "tagline": "From a king's crown in Syracuse to stitched ships, balloons, bathyscaphes and submarines.",
+  "intro": "People floated boats long before anyone asked why. Around 250 BCE Archimedes wrote the rule: a fluid pushes up with the weight of the fluid pushed aside. Scholars in Ghazni and Merv turned it into careful measurements, Galileo showed that density, not shape, decides, and later centuries used it to fly balloons, mark safe loads on ships and send submarines to the deepest sea.",
+  "eras": [
+    {
+      "id": "float",
+      "name": "Floating and sinking",
+      "from": -2400,
+      "to": 500,
+      "color": "#8ef0ff",
+      "summary": "Harappan boats, Archimedes' principle, the legend of the crown and the first hydrometer."
+    },
+    {
+      "id": "weigh",
+      "name": "Weighing in water",
+      "from": 1000,
+      "to": 1700,
+      "color": "#ffb547",
+      "summary": "Al-Biruni, al-Khazini, Stevin, Galileo and Boyle turn buoyancy into precise measurements of density."
+    },
+    {
+      "id": "lift",
+      "name": "Lift and load",
+      "from": 1780,
+      "to": 1900,
+      "color": "#5ce1a9",
+      "summary": "Hot air lifts people, water's 4 °C quirk is found, load lines become law and submarines learn to dive."
+    },
+    {
+      "id": "deep",
+      "name": "Up high and down deep",
+      "from": 1930,
+      "to": 2026,
+      "color": "#c49bff",
+      "summary": "Balloons reach the stratosphere, a bathyscaphe reaches the ocean floor, astronauts train underwater and India builds and sails its own vessels."
+    }
+  ],
+  "events": [
+    {
+      "year": -2400,
+      "date": "c. 2400 BCE onwards (debated)",
+      "era": "float",
+      "art": "boat",
+      "key": false,
+      "title": "A brick basin by the tide at Lothal",
+      "who": "Harappan builders",
+      "where": "Lothal, Gujarat",
+      "country": "India",
+      "text": "At Lothal, a Harappan town on the Gujarat coast, archaeologists found a huge brick basin about 218 m long beside an old channel of the Sabarmati. Many read it as one of the world's earliest docks, where boats floated in on the tide; others think it was a water tank. Either way, boats were loaded and floated along this coast thousands of years ago.",
+      "why": "It is a reminder that people handled floating and loading long before anyone wrote down why things float.",
+      "box": "ships",
+      "sources": [
+        27
+      ]
+    },
+    {
+      "year": -250,
+      "date": "c. 250 BCE",
+      "era": "float",
+      "art": "scroll",
+      "key": true,
+      "title": "Archimedes writes On Floating Bodies",
+      "who": "Archimedes",
+      "where": "Syracuse, Sicily",
+      "country": "Italy (then Greek Sicily)",
+      "text": "In On Floating Bodies, Archimedes proved that a body in a fluid is pushed up by the weight of the fluid it displaces. A body lighter than the same volume of fluid floats, sinking until it has displaced its own weight. He even worked out when floating shapes like a ship's hull stay upright.",
+      "why": "It is the principle every ship designer, balloonist and submarine commander still uses.",
+      "box": "idea",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": -15,
+      "date": "told c. 30–15 BCE (legend)",
+      "era": "float",
+      "art": "scales",
+      "key": true,
+      "title": "Eureka! The story of the king's crown",
+      "who": "Vitruvius, retelling a story about Archimedes",
+      "where": "Rome",
+      "country": "Italy",
+      "text": "About 200 years after Archimedes, the Roman architect Vitruvius told how King Hiero suspected his new gold crown had silver mixed in. Archimedes noticed the water rising as he got into his bath, ran home shouting 'Eureka!' ('I have found it') and compared the water the crown and pure gold pushed aside. Historians treat the bath story as a legend.",
+      "why": "Legend or not, it shows the idea: silver makes the same mass bigger, so it displaces more water.",
+      "box": "ships",
+      "sources": [
+        2,
+        3
+      ]
+    },
+    {
+      "year": 400,
+      "date": "c. 400 CE (attributed)",
+      "era": "float",
+      "art": "flask",
+      "key": false,
+      "title": "A hydroscope for Hypatia",
+      "who": "Synesius of Cyrene, writing to Hypatia",
+      "where": "Cyrene and Alexandria",
+      "country": "Libya and Egypt",
+      "text": "In a letter, the bishop Synesius asked his teacher Hypatia of Alexandria to have a 'hydroscope' cast in brass: a notched tube with a weighted cone that sinks more or less deeply depending on the liquid. It is one of the earliest descriptions of a hydrometer. Some later writers credit Hypatia with inventing it, but the letter only shows she was asked to have one made.",
+      "why": "A floating tube that reads a liquid's density is still how milk, batteries and wines are tested.",
+      "box": "idea",
+      "sources": [
+        4,
+        5
+      ]
+    },
+    {
+      "year": 1030,
+      "date": "c. 1030s",
+      "era": "weigh",
+      "art": "flask",
+      "key": false,
+      "title": "Al-Biruni weighs gems in water",
+      "who": "Abu Rayhan al-Biruni",
+      "where": "Ghazni",
+      "country": "Afghanistan",
+      "text": "Al-Biruni built a conical flask with a spout near the top. Dropping a gem or metal in made water overflow, and weighing the overflow gave the object's volume. With it he listed the specific gravities of metals and precious stones with remarkable accuracy.",
+      "why": "It turned Archimedes' idea into a careful laboratory method for identifying materials.",
+      "box": "idea",
+      "sources": [
+        8,
+        6
+      ]
+    },
+    {
+      "year": 1121,
+      "date": "1121",
+      "era": "weigh",
+      "art": "scales",
+      "key": false,
+      "title": "The Book of the Balance of Wisdom",
+      "who": "Al-Khazini",
+      "where": "Merv",
+      "country": "Turkmenistan",
+      "text": "Al-Khazini described a large hydrostatic balance and tables of the specific gravities of about fifty metals, stones and liquids, building on al-Biruni's work. His value for gold, about 19.05, is close to today's 19.3.",
+      "why": "It was the most complete book on weighing in water for centuries.",
+      "box": "ships",
+      "sources": [
+        6,
+        7
+      ]
+    },
+    {
+      "year": 1586,
+      "date": "1586",
+      "era": "weigh",
+      "art": "waterdrop",
+      "key": false,
+      "title": "Stevin's hydrostatic paradox",
+      "who": "Simon Stevin",
+      "where": "Leiden",
+      "country": "Netherlands",
+      "text": "In The Elements of Hydrostatics, the Flemish engineer Simon Stevin showed that the pressure of water on the bottom of a vessel depends only on its depth, not on the vessel's shape. He used it to explain Archimedes' push as the difference between pressure on the bottom and top of a body.",
+      "why": "It linked buoyancy to pressure, the way we still explain it (see PressureClear).",
+      "box": "idea",
+      "sources": [
+        9
+      ]
+    },
+    {
+      "year": 1586,
+      "date": "1586",
+      "era": "weigh",
+      "art": "scales",
+      "key": false,
+      "title": "Galileo's little balance",
+      "who": "Galileo Galilei",
+      "where": "Pisa and Florence",
+      "country": "Italy",
+      "text": "Young Galileo doubted the bathtub story: the extra overflow from a slightly silvery crown would be too small to see. In La Bilancetta he proposed a balance with the crown and pure gold hanging in water instead, where the difference shows clearly.",
+      "why": "It is the version of the crown test this box lets you try.",
+      "box": "ships",
+      "sources": [
+        10
+      ]
+    },
+    {
+      "year": 1612,
+      "date": "1612",
+      "era": "weigh",
+      "art": "ice",
+      "key": true,
+      "title": "Why ice floats: Galileo's floating bodies",
+      "who": "Galileo Galilei",
+      "where": "Florence",
+      "country": "Italy",
+      "text": "Aristotle's followers said ice floats because of its flat shape. Galileo argued, with experiments, that ice floats because it is lighter than the same volume of water, and that shape only matters through surface effects.",
+      "why": "It settled that density, not shape or weight, decides floating.",
+      "box": "limits",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 1620,
+      "date": "c. 1620–1624 (attributed)",
+      "era": "weigh",
+      "art": "boat",
+      "key": false,
+      "title": "A submarine in the Thames",
+      "who": "Cornelis Drebbel",
+      "where": "London",
+      "country": "England",
+      "text": "The Dutch inventor Cornelis Drebbel is said to have rowed a leather-covered, oar-driven boat under the Thames, a few metres down, for King James I. Accounts are thin, so details are uncertain.",
+      "why": "It is often called the first navigable submarine.",
+      "box": "around",
+      "sources": [
+        30
+      ]
+    },
+    {
+      "year": 1675,
+      "date": "June 1675",
+      "era": "weigh",
+      "art": "flask",
+      "key": false,
+      "title": "Boyle names the hydrometer",
+      "who": "Robert Boyle",
+      "where": "London",
+      "country": "England",
+      "text": "Robert Boyle described a glass bulb with a long, slender stem that floats in a liquid: the deeper it sinks, the less dense the liquid. He designed it to catch counterfeit gold coins, and coined the name 'hydrometer'.",
+      "why": "Hydrometers made density a quick everyday measurement.",
+      "box": "idea",
+      "sources": [
+        12,
+        5
+      ]
+    },
+    {
+      "year": 1783,
+      "date": "4 June and 21 November 1783",
+      "era": "lift",
+      "art": "flame",
+      "key": true,
+      "title": "The first hot-air balloons",
+      "who": "Joseph-Michel and Jacques-Étienne Montgolfier",
+      "where": "Annonay and Paris",
+      "country": "France",
+      "text": "The Montgolfier brothers, paper makers, sent up an unmanned balloon of hot air from the market square of Annonay on 4 June 1783. On 21 November, Pilâtre de Rozier and the Marquis d'Arlandes flew across Paris for about 25 minutes. Days later Jacques Charles flew a hydrogen balloon.",
+      "why": "People flew for the first time, lifted only by the difference in air density.",
+      "box": "air",
+      "sources": [
+        13,
+        14
+      ]
+    },
+    {
+      "year": 1805,
+      "date": "1805",
+      "era": "lift",
+      "art": "ice",
+      "key": false,
+      "title": "Water is densest near 4 °C",
+      "who": "Thomas Charles Hope",
+      "where": "Edinburgh",
+      "country": "Scotland",
+      "text": "Hope cooled a tall jar of water around its middle and watched thermometers at the top and bottom. Above about 4 °C the cooled water sank; below it, the cold water rose. He placed the density maximum at about 39.5 °F, near today's 3.98 °C.",
+      "why": "It explains why lakes freeze from the top and life survives beneath the ice.",
+      "box": "limits",
+      "sources": [
+        15,
+        32
+      ]
+    },
+    {
+      "year": 1876,
+      "date": "1876",
+      "era": "lift",
+      "art": "boat",
+      "key": true,
+      "title": "The Plimsoll line becomes law",
+      "who": "Samuel Plimsoll",
+      "where": "London",
+      "country": "United Kingdom",
+      "text": "Samuel Plimsoll, a member of parliament, campaigned against overloaded 'coffin ships' that sank with their crews. The Merchant Shipping Act of 1876 made a load line mark compulsory: a circle with a line through it on each ship's side. Its exact position was fixed by law in 1894.",
+      "why": "Buoyancy became a safety rule painted on every ship in the world.",
+      "box": "ships",
+      "sources": [
+        16,
+        17
+      ]
+    },
+    {
+      "year": 1900,
+      "date": "11 April 1900",
+      "era": "lift",
+      "art": "boat",
+      "key": true,
+      "title": "The first modern navy submarine",
+      "who": "John Philip Holland",
+      "where": "New York and Washington",
+      "country": "United States",
+      "text": "The US Navy bought John Holland's Holland VI and commissioned it as USS Holland in October 1900. It flooded ballast tanks to dive, used a petrol engine on the surface and electric motors underwater.",
+      "why": "Ballast tanks plus engines made the submarine a practical ship.",
+      "box": "around",
+      "sources": [
+        18,
+        19
+      ]
+    },
+    {
+      "year": 1931,
+      "date": "27 May 1931",
+      "era": "deep",
+      "art": "wind",
+      "key": false,
+      "title": "A balloon to the stratosphere",
+      "who": "Auguste Piccard and Paul Kipfer",
+      "where": "Augsburg",
+      "country": "Germany",
+      "text": "Swiss physicist Auguste Piccard rode a sealed, pressurised cabin under a hydrogen balloon to about 15,781 m, higher than anyone before. The same idea, a float lighter than the fluid around it, later took him down into the sea.",
+      "why": "It carried people into the stratosphere on buoyancy alone.",
+      "box": "air",
+      "sources": [
+        22
+      ]
+    },
+    {
+      "year": 1960,
+      "date": "23 January 1960",
+      "era": "deep",
+      "art": "waterdrop",
+      "key": true,
+      "title": "The bathyscaphe Trieste reaches the deepest sea",
+      "who": "Jacques Piccard and Don Walsh",
+      "where": "Challenger Deep, Pacific Ocean",
+      "country": "United States / Switzerland",
+      "text": "Auguste Piccard's bathyscaphe design hung a small steel sphere under a float full of petrol, which is lighter than water and hardly squashes. Trieste dropped iron shot to come back up. With his son Jacques and US Navy officer Don Walsh aboard, it reached about 10,900 m in the Mariana Trench.",
+      "why": "Buoyancy control took people to the bottom of the ocean and back.",
+      "box": "around",
+      "sources": [
+        20,
+        21
+      ]
+    },
+    {
+      "year": 1967,
+      "date": "8 December 1967",
+      "era": "deep",
+      "art": "boat",
+      "key": false,
+      "title": "India's first submarine",
+      "who": "Indian Navy",
+      "where": "Commissioned in the Soviet Union",
+      "country": "India",
+      "text": "INS Kalvari, a Soviet-built Foxtrot-class diesel submarine, joined the Indian Navy on 8 December 1967. India marks the date as Submarine Day. A new Kalvari, of the Scorpène class, was commissioned in 2017.",
+      "why": "It began India's own submarine service.",
+      "box": "around",
+      "sources": [
+        23
+      ]
+    },
+    {
+      "year": 1997,
+      "date": "1995–1997",
+      "era": "deep",
+      "art": "waterdrop",
+      "key": false,
+      "title": "A 12 m pool for spacewalks",
+      "who": "NASA",
+      "where": "Houston, Texas",
+      "country": "United States",
+      "text": "NASA's Neutral Buoyancy Laboratory, 62 m long, 31 m wide and 12 m deep, holding 23.5 million litres, saw its first suited dives in October 1996 and was dedicated in 1997. Divers trim each suited astronaut with weights and floats until they neither rise nor sink.",
+      "why": "It is the closest thing on Earth to rehearsing a spacewalk.",
+      "box": "limits",
+      "sources": [
+        25,
+        26
+      ]
+    },
+    {
+      "year": 2016,
+      "date": "launched 2009, commissioned 2016",
+      "era": "deep",
+      "art": "boat",
+      "key": false,
+      "title": "INS Arihant, India's nuclear submarine",
+      "who": "Indian Navy, Ship Building Centre",
+      "where": "Visakhapatnam",
+      "country": "India",
+      "text": "India's first home-built nuclear-powered ballistic missile submarine was launched on 26 July 2009 and commissioned in August 2016. It displaces about 6,000 tonnes on the surface and, like every submarine, dives by flooding its ballast tanks.",
+      "why": "It shows the same Archimedes balance working in a 6,000-tonne vessel.",
+      "box": "around",
+      "sources": [
+        24
+      ]
+    },
+    {
+      "year": 2026,
+      "date": "29 December 2025 – January 2026",
+      "era": "deep",
+      "art": "boat",
+      "key": true,
+      "title": "A stitched ship sails again",
+      "who": "INSV Kaundinya, Indian Navy",
+      "where": "Porbandar to Muscat",
+      "country": "India and Oman",
+      "text": "Kaundinya is a wooden sailing ship built without nails, its planks stitched with coconut-fibre rope in an old Indian technique, to a design based on a 5th-century ship painted in the Ajanta caves. Kerala shipwrights led by Babu Sankaran built it. It sailed from Porbandar on 29 December 2025 and reached Muscat about 18 days later.",
+      "why": "It revives, with care and some guesswork, the kind of craft that carried Indian Ocean trade.",
+      "box": "ships",
+      "sources": [
+        28,
+        29
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "The principle of buoyancy written down",
+      "value": "c. 250 BCE",
+      "who": "Archimedes, Syracuse"
+    },
+    {
+      "label": "Tables of specific gravity",
+      "value": "c. 1030s–1121",
+      "who": "Al-Biruni and al-Khazini"
+    },
+    {
+      "label": "The name 'hydrometer'",
+      "value": "1675",
+      "who": "Robert Boyle, England"
+    },
+    {
+      "label": "People fly, in a hot-air balloon",
+      "value": "1783",
+      "who": "Pilâtre de Rozier and the Marquis d'Arlandes, France"
+    },
+    {
+      "label": "Load lines required by law",
+      "value": "1876",
+      "who": "Merchant Shipping Act, United Kingdom"
+    },
+    {
+      "label": "Crewed dive to the deepest ocean",
+      "value": "1960",
+      "who": "Jacques Piccard and Don Walsh, Trieste"
+    },
+    {
+      "label": "India's first submarine",
+      "value": "1967",
+      "who": "INS Kalvari, Indian Navy"
+    }
+  ],
+  "people": [
+    {
+      "name": "Archimedes",
+      "life": "c. 287 – c. 212 BCE",
+      "role": "Mathematician and engineer",
+      "from": "Syracuse, Sicily",
+      "note": "Wrote the principle of buoyancy in On Floating Bodies."
+    },
+    {
+      "name": "Hypatia of Alexandria",
+      "life": "c. 350–370 – 415",
+      "role": "Mathematician and teacher",
+      "from": "Egypt",
+      "note": "Asked by Synesius to have a hydroscope made; often linked to the hydrometer."
+    },
+    {
+      "name": "Abu Rayhan al-Biruni",
+      "life": "973 – c. 1050",
+      "role": "Scholar and scientist",
+      "from": "Khwarazm (today Uzbekistan)",
+      "note": "Measured specific gravities with an overflow flask."
+    },
+    {
+      "name": "Al-Khazini",
+      "life": "fl. 1115 – 1130",
+      "role": "Scientist",
+      "from": "Merv (today Turkmenistan)",
+      "note": "Wrote the Book of the Balance of Wisdom with tables of about fifty densities."
+    },
+    {
+      "name": "Simon Stevin",
+      "life": "1548 – 1620",
+      "role": "Engineer and mathematician",
+      "from": "Flanders",
+      "note": "Explained buoyancy through water pressure and depth."
+    },
+    {
+      "name": "Galileo Galilei",
+      "life": "1564 – 1642",
+      "role": "Physicist and astronomer",
+      "from": "Italy",
+      "note": "Designed a hydrostatic balance and showed that density decides floating."
+    },
+    {
+      "name": "Robert Boyle",
+      "life": "1627 – 1691",
+      "role": "Natural philosopher",
+      "from": "Ireland and England",
+      "note": "Named the hydrometer and used it to spot fake coins."
+    },
+    {
+      "name": "Joseph-Michel and Jacques-Étienne Montgolfier",
+      "life": "1740 – 1810; 1745 – 1799",
+      "role": "Paper makers and inventors",
+      "from": "France",
+      "note": "Built the first hot-air balloons."
+    },
+    {
+      "name": "Samuel Plimsoll",
+      "life": "1824 – 1898",
+      "role": "Politician and reformer",
+      "from": "England",
+      "note": "Won the law that put load lines on ships."
+    },
+    {
+      "name": "Auguste and Jacques Piccard",
+      "life": "1884 – 1962; 1922 – 2008",
+      "role": "Physicist; oceanographer",
+      "from": "Switzerland",
+      "note": "Rode buoyancy to the stratosphere and to the deepest ocean floor."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "About 92% of an ice cube hides below the surface of fresh water, and about 90% of an iceberg below the sea.",
+    "Iron floats on mercury: mercury is 13.5 g/cm³, iron only 7.9.",
+    "Air at 100 °C is about 20% lighter than air at 20 °C, enough for a 2,800 m³ balloon to lift more than half a tonne.",
+    "The Dead Sea's water is about 1.24 g/cm³, so a swimmer floats with roughly a fifth of their body in the air.",
+    "Pure water is densest at 3.98 °C, which is why deep lakes stay near 4 °C at the bottom all winter."
+  ],
+  "sources": [
+    {
+      "title": "On Floating Bodies",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/On_Floating_Bodies"
+    },
+    {
+      "title": "Archimedes' principle",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/science/Archimedes-principle"
+    },
+    {
+      "title": "Eureka (word): the story of the crown, after Vitruvius",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eureka_(word)"
+    },
+    {
+      "title": "The Golden Crown: sources (Vitruvius, De Architectura IX)",
+      "publisher": "Chris Rorres, New York University (Courant)",
+      "url": "https://math.nyu.edu/Archimedes/Crown/CrownIntro.html"
+    },
+    {
+      "title": "Synesius, Letter 15",
+      "publisher": "Livius.org",
+      "url": "https://www.livius.org/sources/content/synesius/synesius-letter-015/"
+    },
+    {
+      "title": "Hydrometer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hydrometer"
+    },
+    {
+      "title": "Al-Khazini",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Al-Khazini"
+    },
+    {
+      "title": "A book on al-Khazini's Book of the Balance of Wisdom",
+      "publisher": "Max Planck Institute for the History of Science",
+      "url": "https://www.mpiwg-berlin.mpg.de/research/projects/book-al-khazinis-book-balance-wisdom"
+    },
+    {
+      "title": "The Science of al-Biruni",
+      "publisher": "arXiv (M. Rahman)",
+      "url": "https://arxiv.org/pdf/1312.7288"
+    },
+    {
+      "title": "Simon Stevin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Simon_Stevin"
+    },
+    {
+      "title": "La Bilancetta (The Little Balance)",
+      "publisher": "Galileo Project, Rice University",
+      "url": "https://galileo.library.rice.edu/sci/instruments/balance.html"
+    },
+    {
+      "title": "Galileo Galilei: Discourse on Floating Bodies (1612)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Galileo_Galilei"
+    },
+    {
+      "title": "A New Essay-Instrument Invented and Described by the Honourable Robert Boyle (Phil. Trans. 10, 1675)",
+      "publisher": "JSTOR / Royal Society",
+      "url": "https://www.jstor.org/stable/101653"
+    },
+    {
+      "title": "Montgolfier brothers",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Montgolfier-brothers"
+    },
+    {
+      "title": "The first hot air balloon flight, 19 September 1783",
+      "publisher": "Château de Versailles",
+      "url": "https://en.chateauversailles.fr/discover/history/key-dates/first-hot-air-balloon-flight"
+    },
+    {
+      "title": "Thomas Charles Hope",
+      "publisher": "Linda Hall Library",
+      "url": "https://www.lindahall.org/about/news/scientist-of-the-day/thomas-charles-hope/"
+    },
+    {
+      "title": "Samuel Plimsoll and ship safety",
+      "publisher": "Royal Museums Greenwich",
+      "url": "https://www.rmg.co.uk/stories/maritime-history/samuel-plimsoll-ship-safety"
+    },
+    {
+      "title": "Load line (watercraft)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Load_line_(watercraft)"
+    },
+    {
+      "title": "Holland I (Submarine No. 1)",
+      "publisher": "Naval History and Heritage Command",
+      "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/h/holland-i.html"
+    },
+    {
+      "title": "USS Holland (SS-1)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/USS_Holland_(SS-1)"
+    },
+    {
+      "title": "Bathyscaph Trieste",
+      "publisher": "Naval History and Heritage Command",
+      "url": "https://www.history.navy.mil/browse-by-topic/exploration-and-innovation/bathyscaph-trieste.html"
+    },
+    {
+      "title": "Trieste (bathyscaphe)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Trieste_(bathyscaphe)"
+    },
+    {
+      "title": "Auguste Piccard",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Auguste_Piccard"
+    },
+    {
+      "title": "INS Kalvari (S23)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/INS_Kalvari_(S23)"
+    },
+    {
+      "title": "INS Arihant",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/INS_Arihant"
+    },
+    {
+      "title": "Neutral Buoyancy Laboratory",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Neutral_Buoyancy_Laboratory"
+    },
+    {
+      "title": "Building on a mission: neutral buoyancy facilities for spacewalk training",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/feature/building-on-a-mission-neutral-buoyancy-facilities-for-spacewalk-training"
+    },
+    {
+      "title": "Lothal",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lothal"
+    },
+    {
+      "title": "INSV Kaundinya",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/INSV_Kaundinya"
+    },
+    {
+      "title": "INSV Kaundinya arrives at Port Sultan Qaboos in Muscat",
+      "publisher": "All India Radio News",
+      "url": "https://www.newsonair.gov.in/insv-kaundinya-arrives-at-port-sultan-qaboos-in-muscat-after-completing-its-maiden-voyage-from-gujarat"
+    },
+    {
+      "title": "Cornelis Drebbel",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cornelis_Drebbel"
+    },
+    {
+      "title": "Dead Sea",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dead_Sea"
+    },
+    {
+      "title": "Maximum density of water (Tanaka et al. 2001, Metrologia 38: 301)",
+      "publisher": "Wikipedia: Properties of water",
+      "url": "https://en.wikipedia.org/wiki/Properties_of_water"
+    }
+  ]
+}

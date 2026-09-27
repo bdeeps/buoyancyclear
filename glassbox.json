@@ -1,0 +1,162 @@
+{
+  "slug": "buoyancyclear",
+  "kind": "principle",
+  "box": 23,
+  "date": "2026-09-27",
+  "title": "Density and buoyancy",
+  "question": "What are density and buoyancy?",
+  "principle": {
+    "type": "concept",
+    "name": "Density and buoyancy",
+    "formula": "F = ρ × V × g",
+    "formulaNote": "buoyant force = fluid density × volume under the surface × g: the weight of the fluid pushed aside. Density is mass ÷ volume (ρ = m ÷ V). Anything less dense than the fluid floats, with ρ_object ÷ ρ_fluid of it under the surface; anything denser sinks.",
+    "idea": "Density is how much mass is packed into each bit of space. A fluid pushes up on anything in it with the weight of the fluid it pushes aside, so things less dense than the fluid float and denser things sink.",
+    "discovered": "c. 250 BCE · Archimedes, On Floating Bodies",
+    "art": "boat",
+    "appliesTo": [
+      "waterheaterclear",
+      "roclear",
+      "acclear",
+      "chimneyclear"
+    ],
+    "examples": [
+      {
+        "title": "Hot water floats in the geyser",
+        "text": "Water at 60 °C is about 1.5% lighter than at 20 °C, so hot water rises to the top of a storage geyser, right where the outlet draws from, while cold water comes in at the bottom.",
+        "box": "waterheaterclear"
+      },
+      {
+        "title": "The float switch in an RO tank",
+        "text": "A hollow float rides up on the water in the purifier's storage tank. When the tank is full the float lifts far enough to switch the pump off.",
+        "box": "roclear"
+      },
+      {
+        "title": "Why the AC is mounted high",
+        "text": "Air at 16 °C is about 5% denser than room air at 32 °C. From high on the wall, the cold air tumbles down and stirs the whole room; mounted low, it would pool on the floor.",
+        "box": "acclear"
+      },
+      {
+        "title": "Smoke rises into the chimney",
+        "text": "Air over a hot pan is lighter than the air around it, so it rises in a plume at about 1 m/s. The hood only has to catch what buoyancy brings up.",
+        "box": "chimneyclear"
+      },
+      {
+        "title": "A steel ship and its Plimsoll line",
+        "text": "A cargo ship's hollow hull gives it an average density well below water's. Load lines on its side show how deep it may float, and it sits about 2.5% deeper in fresh water than in the sea."
+      },
+      {
+        "title": "An iceberg's hidden bulk",
+        "text": "Ice is 0.917 g/cm³, so about 92% of an ice cube hides under fresh water, and about 90% of an iceberg under the sea."
+      },
+      {
+        "title": "Diving a submarine",
+        "text": "A Kalvari-class submarine floats at 1,615 tonnes. Flooding its ballast tanks with about 160 tonnes of sea water makes it as dense as the sea, so it can hover or dive."
+      },
+      {
+        "title": "A big breath to float",
+        "text": "Most people are 0.98 to 1.05 g/cm³. Filling the lungs adds about 6 litres of air, which is enough to make almost anyone float."
+      },
+      {
+        "title": "The hot-air balloon",
+        "text": "Air at 100 °C is about 20% lighter than air at 20 °C. A 2,800 m³ envelope of it lifts 600 kg or more, and more on a cool morning."
+      }
+    ]
+  },
+  "hook": "Why does a 100,000-tonne steel ship float while a nail sinks? Lower blocks of cork, ice, iron and gold into a brim-full can, load a cargo ship to its Plimsoll line, test Archimedes' crown, fly a hot-air balloon, dive a submarine and float in the Dead Sea.",
+  "thumbText": "DENSITY AND BUOYANCY",
+  "field": "physics",
+  "minutes": 12,
+  "tags": [
+    "density",
+    "buoyancy",
+    "Archimedes' principle",
+    "floating and sinking",
+    "displacement",
+    "Plimsoll line",
+    "ships",
+    "hot-air balloon",
+    "convection",
+    "submarine",
+    "swim bladder",
+    "ice",
+    "Dead Sea",
+    "neutral buoyancy",
+    "physics",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Density and the upward push",
+      "text": "Density is mass ÷ volume: water is 1 g/cm³, cork 0.24, iron 7.87, gold 19.3. A fluid pushes up with the weight of the fluid pushed aside, F = ρ × V × g. Less dense than the fluid, it floats with ρ_object ÷ ρ_fluid under the surface: 92% for ice."
+    },
+    {
+      "title": "Ships, clay and a crown",
+      "text": "A steel ship floats because its hollow hull averages less than 1 g/cm³. Load lines show how deep it may sit, a little deeper in fresh water than salt. A clay lump sinks but a clay bowl floats, and silver mixed into a gold crown makes it bigger, so water pushes it up harder."
+    },
+    {
+      "title": "Floating on air",
+      "text": "Air at 100 °C is 20% lighter than at 20 °C, so a balloon of it lifts hundreds of kilograms. Hot water floats to the top of a geyser, and cold AC air sinks, which is why the AC goes high on the wall."
+    },
+    {
+      "title": "Swimmers, fish and submarines",
+      "text": "A big breath makes most people float. Fish tune their density with a gas-filled swim bladder, submarines with ballast tanks. Salt makes water denser until a fresh egg floats, and liquids stack by density."
+    },
+    {
+      "title": "Surprises and myths",
+      "text": "Water is densest at 4 °C, so lakes freeze from the top down. The Dead Sea, 1.24 g/cm³, holds a fifth of you out of the water. Astronauts train neutrally buoyant in a 12 m pool. Heavy logs float and small nails sink, and deep water doesn't float a boat any better."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Density (ρ)",
+      "def": "Mass divided by volume, in kg/m³ or g/cm³. Water is 1,000 kg/m³."
+    },
+    {
+      "term": "Buoyant force",
+      "def": "The upward push of a fluid, equal to the weight of the fluid displaced."
+    },
+    {
+      "term": "Archimedes' principle",
+      "def": "F = ρ_fluid × V_submerged × g: a body in a fluid is pushed up by the weight of the fluid it pushes aside."
+    },
+    {
+      "term": "Displacement",
+      "def": "The fluid an object pushes aside; for a ship, the mass of water equal to the ship's own mass."
+    },
+    {
+      "term": "Average density",
+      "def": "Total mass over the total volume enclosed, air spaces included. It decides whether a ship floats."
+    },
+    {
+      "term": "Neutral buoyancy",
+      "def": "Exactly as dense as the surrounding fluid, so it neither rises nor sinks."
+    },
+    {
+      "term": "Convection",
+      "def": "Warm, lighter fluid rising and cool, denser fluid sinking, carrying heat with it."
+    },
+    {
+      "term": "Load line",
+      "def": "The Plimsoll mark on a ship's side showing the deepest it may legally float."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "buoyancyclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
